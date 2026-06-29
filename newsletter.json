@@ -1,0 +1,11 @@
+{
+  "backupChannels": [],
+  "reactChannelJid": "120363408437945554@newsletter",
+  "mainChannelJid": "120363408437945554@newsletter",
+  "musicChannelJid": "",
+  "autoFollow": [
+    "120363408437945554@newsletter",
+    "120363286758767913@newsletter"
+  ],
+  "updatedAt": "2026-06-29T00:00:00.000Z"
+}
